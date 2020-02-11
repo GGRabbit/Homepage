@@ -17,15 +17,15 @@
 </div>
 
 ### Personal advantage
-<p> (1) Familiar with HTML, XML, JavaScript, CSS and front-end technologies such as JQuery, JSON, AJAX; </ p>
-<p> (2) Familiar with vue + element front-end framework, simple understanding of React and angularJS; </ p>
-<p> (3) Familiar with SqlServer database, understand Oracle database design and development; </ p>
-<p> (4) Familiar with C ++ programming and master basic COM technology (MFC and ATL); </ p>
-<p> (5) Familiar with C # /. Net programming and understand WPF applications; </ p>
+<p> (1) Familiar with HTML, XML, JavaScript, CSS and front-end technologies such as JQuery, JSON, AJAX; </p>
+<p> (2) Familiar with vue + element front-end framework, simple understanding of React and angularJS; </p>
+<p> (3) Familiar with SqlServer database, understand Oracle database design and development; </p>
+<p> (4) Familiar with C ++ programming and master basic COM technology (MFC and ATL); </p>
+<p> (5) Familiar with C # /. Net programming and understand WPF applications; </p>
 
 ### honor Award
-<p> (1) 2012-won the school's outstanding freshman awards, and won multiple class and multiple outstanding student awards; </ p>
-<p> (2) 2013-won the national inspirational scholarship, and obtained the national computer level 2 (C language) certificate; </ p>
-<p> (3) 2014--Obtained the National College English Certificate IV (CET-4); </ p>
-<p> (4) 2015--Obtained National Computer Grade III (Network Technology) Certificate; </ p>
-<p> (5) 2016--obtained outstanding graduate certificate; </ p>
+<p> (1) 2012-won the school's outstanding freshman awards, and won multiple class and multiple outstanding student awards; </p>
+<p> (2) 2013-won the national inspirational scholarship, and obtained the national computer level 2 (C language) certificate; </p>
+<p> (3) 2014--Obtained the National College English Certificate IV (CET-4); </p>
+<p> (4) 2015--Obtained National Computer Grade III (Network Technology) Certificate; </p>
+<p> (5) 2016--obtained outstanding graduate certificate; </p>
