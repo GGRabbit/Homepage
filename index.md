@@ -10,22 +10,19 @@
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/id.jpg" width="100%">
+      <img src="/main.jpg" width="100%">
     </td>
   </tr>
 </table>
 </div>
 
----
-高杰	 26岁   |	男   |	本科   |	17310708550   	
-
-个人优势
-（1）熟悉HTML、XML、JavaScript、CSS以及JQuery、JSON、AJAX等前端技术；
-（2）熟悉vue+element前端框架，对React和angularJS简单了解；
-（3）熟悉SqlServer数据库，了解Oracle数据库设计开发；
-（4）熟悉和C++编程，掌握基本COM技术（MFC及ATL）；
-（5）熟悉C#/.Net编程，了解WPF应用；
----
+<p>高杰	 26岁   |	男   |	本科   |	17310708550   </p>	
+<p><b>个人优势</b></p>
+<p>（1）熟悉HTML、XML、JavaScript、CSS以及JQuery、JSON、AJAX等前端技术；</p>
+<p>（2）熟悉vue+element前端框架，对React和angularJS简单了解；</p>
+<p>（3）熟悉SqlServer数据库，了解Oracle数据库设计开发；</p>
+<p>（4）熟悉和C++编程，掌握基本COM技术（MFC及ATL）；</p>
+<p>（5）熟悉C#/.Net编程，了解WPF应用；</p>
 
 ### 最新消息
 1. 消息1×××
