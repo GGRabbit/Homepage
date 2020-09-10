@@ -2,9 +2,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>高杰</h1>
-      <p><b>青岛理工大学</b></p>
-      <p><b>应用物理学</b></p>
+      <h1>XX</h1>
+      <p><b>XXXX大学</b></p>
+      <p><b>XXXX专业</b></p>
       <p><b>邮箱：17310708550@163.com</b></p>
       <p><b>地址：北京市海淀区××路××号，××楼，邮编×××</b></p>
       <p><a href="/index-en.html">English Version</a></p>
